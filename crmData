@@ -1,0 +1,24 @@
+[
+  {
+    "address": {
+      "address_country": "Mayotte", 
+      "address_postal": "40462", 
+      "address_street": "2798 Gardner Loaf"
+    }, 
+    "company_description": "empower world-class e-business", 
+    "company_name": "Ellis-Bennett", 
+    "credit_card": {
+      "credit_card_expire": "04/30", 
+      "credit_card_number": "4680378362443508", 
+      "credit_card_provider": "JCB 16 digit"
+    }, 
+    "date_of_birth": "1955-12-22", 
+    "email": "powersfrank@yahoo.com", 
+    "first_name": "William", 
+    "id": 9999, 
+    "job": "Theatre manager", 
+    "last_name": "Cobb", 
+    "phone": "+1-612-423-3149", 
+    "user_name": "csoto"
+  }
+]
